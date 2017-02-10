@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://tintrongnguyen.me/blog/obsession/</loc>
+    <lastmod>2016-12-28T23:16:29+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tintrongnguyen.me/blog/subtleties/</loc>
+    <lastmod>2016-12-20T02:40:55+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tintrongnguyen.me/blog/6-months-a-sailor/</loc>
+    <lastmod>2016-10-29T02:40:55+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tintrongnguyen.me/blog/the-acid-free-letter/</loc>
+    <lastmod>2016-06-15T23:16:29+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tintrongnguyen.me/blog/first-bricks/</loc>
+    <lastmod>2016-05-24T18:57:44+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tintrongnguyen.me/about/</loc>
+    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tintrongnguyen.me/code/</loc>
+    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tintrongnguyen.me/contact/</loc>
+    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tintrongnguyen.me/blog/</loc>
+    <lastmod>2016-12-28T23:16:29+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tintrongnguyen.me/fixed/</loc>
+    <lastmod>2015-04-03T02:13:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://tintrongnguyen.me/</loc>
+    <lastmod>2016-12-28T23:16:29+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
