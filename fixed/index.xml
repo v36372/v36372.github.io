@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fixed on Random blogging</title>
-    <link>http://tintrongnguyen.me/fixed/index.xml</link>
+    <link>https://v36372.github.io/fixed/index.xml</link>
     <description>Recent content in Fixed on Random blogging</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 03 Apr 2015 02:13:50 +0000</lastBuildDate>
-    <atom:link href="http://tintrongnguyen.me/fixed/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://v36372.github.io/fixed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About</title>
-      <link>http://tintrongnguyen.me/about/</link>
+      <link>https://v36372.github.io/about/</link>
       <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
       
-      <guid>http://tintrongnguyen.me/about/</guid>
+      <guid>https://v36372.github.io/about/</guid>
       <description>
 
 &lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
@@ -42,10 +42,10 @@ But in the long run, screenwriting is what I&amp;rsquo;m aiming for.&lt;/p&gt;
     
     <item>
       <title>Code</title>
-      <link>http://tintrongnguyen.me/code/</link>
+      <link>https://v36372.github.io/code/</link>
       <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
       
-      <guid>http://tintrongnguyen.me/code/</guid>
+      <guid>https://v36372.github.io/code/</guid>
       <description>
 
 &lt;h2 id=&#34;code&#34;&gt;Code&lt;/h2&gt;
@@ -54,10 +54,10 @@ But in the long run, screenwriting is what I&amp;rsquo;m aiming for.&lt;/p&gt;
     
     <item>
       <title>Contact</title>
-      <link>http://tintrongnguyen.me/contact/</link>
+      <link>https://v36372.github.io/contact/</link>
       <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
       
-      <guid>http://tintrongnguyen.me/contact/</guid>
+      <guid>https://v36372.github.io/contact/</guid>
       <description>
 
 &lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
