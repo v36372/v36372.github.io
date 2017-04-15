@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fixed on Random blogging</title>
+    <title>Fixed on random typing</title>
     <link>https://v36372.github.io/fixed/index.xml</link>
-    <description>Recent content in Fixed on Random blogging</description>
+    <description>Recent content in Fixed on random typing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 03 Apr 2015 02:13:50 +0000</lastBuildDate>
@@ -19,7 +19,7 @@
 
 &lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 
-&lt;p&gt;Hi, I am Tin, a software engineer based in Saigon, Vietnam.&lt;/p&gt;
+&lt;p&gt;Hi, I am Tin, a software engineer based in Saigon, Vietnam. And yes, the image above is me. I got an eye bruise in a football match in 09/2016.&lt;/p&gt;
 
 &lt;p&gt;I love building software and products in general.&lt;/p&gt;
 
@@ -41,28 +41,70 @@ But in the long run, screenwriting is what I&amp;rsquo;m aiming for.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Code</title>
-      <link>https://v36372.github.io/code/</link>
+      <title>Jobs</title>
+      <link>https://v36372.github.io/jobs/</link>
       <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
       
-      <guid>https://v36372.github.io/code/</guid>
+      <guid>https://v36372.github.io/jobs/</guid>
       <description>
 
-&lt;h2 id=&#34;code&#34;&gt;Code&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://v36372.github.io/contact/</link>
-      <pubDate>Fri, 03 Apr 2015 02:13:50 +0000</pubDate>
-      
-      <guid>https://v36372.github.io/contact/</guid>
-      <description>
+&lt;h1 id=&#34;resumé&#34;&gt;Resumé&lt;/h1&gt;
 
-&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
+&lt;h2 id=&#34;basic-information&#34;&gt;Basic information&lt;/h2&gt;
 
-&lt;p&gt;I was thinking about removing this page. There are links to my &lt;em&gt;boring&lt;/em&gt; social life up there.&lt;/p&gt;
+&lt;p&gt;Nguyen Trong Tin | 21/12/1994 | &lt;a href=&#34;mailto:nttin@apcs.vn&#34;&gt;nttin@apcs.vn&lt;/a&gt; | &lt;del&gt;Single hehe&lt;/del&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;academic-history&#34;&gt;Academic history&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.apcs.hcmus.edu.vn/&#34;&gt;HCMUS&lt;/a&gt; | Bachelor of Computer Science | 2012 - 2016&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.ptnk.edu.vn/&#34;&gt;High School for the Gifted&lt;/a&gt; | Informatics | 2009 - 2012&lt;/p&gt;
+
+&lt;h2 id=&#34;employment-history&#34;&gt;Employment history&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.joy-entertainment.com/&#34;&gt;JOY Entertainment&lt;/a&gt; | Game Studio | Software Engineer Intership | 03/2015 - &lt;sup&gt;10&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://shelfout.com&#34;&gt;Shelfout&lt;/a&gt; | Start-up of friends | Engineer | &lt;sup&gt;10&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt; - 03/2016&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://floatingcube.com&#34;&gt;Floating Cube Studios&lt;/a&gt; | Tech Start-up | Product Engineer | 06/2016 - current&lt;/p&gt;
+
+&lt;h2 id=&#34;side-projects&#34;&gt;Side projects&lt;/h2&gt;
+
+&lt;h3 id=&#34;sunseeker&#34;&gt;Sunseeker&lt;/h3&gt;
+
+&lt;p&gt;The project is a react front-end implementation for &lt;a href=&#34;https://github.com/sonhnguyen/dotastats&#34;&gt;Dotastats&lt;/a&gt;, which I also contributed into.&lt;/p&gt;
+
+&lt;p&gt;We crawled e-sports matches and statistics from various betting websites. Then we organize, display them in a sane way. The purpose of this project is to win bets ofcourse.&lt;/p&gt;
+
+&lt;p&gt;The site can be found at &lt;a href=&#34;https://f10k.herokuapp.com&#34;&gt;Sunseeker&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;golang-web-application-boilerate&#34;&gt;Golang web application boilerate&lt;/h3&gt;
+
+&lt;p&gt;I started this project to make my life and golang developers fellow easier. Where using web frameworks in Golang is a bad idea, it&amp;rsquo;s quite confusing to organize and set up necessary parts. I started this project to make my life and golang developers fellow easier.&lt;/p&gt;
+
+&lt;p&gt;I looked at good examples of Golang web application and set up a base application with all the components in-place: middleware, router, handler, configuration, database, etc&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;Still a work-in-progress&lt;/p&gt;
+
+&lt;p&gt;The project can be found at &lt;a href=&#34;https://github.com/v36372/base&#34;&gt;Base&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;markstream&#34;&gt;Markstream&lt;/h3&gt;
+
+&lt;p&gt;This one is my university graduation thesis. The idea is to stream audio data with watermarks embedded.&lt;/p&gt;
+
+&lt;p&gt;In my case, to embed a watermark into an audio segment means altering the frequencies so that they contain my information.&lt;/p&gt;
+
+&lt;p&gt;To make the audio quality less degraded as possible, I need to apply a reasonable amount of modifications to the selected frequencies. There are some sensitive frequencies that are best to skip. Here I apply a dynamic scheme to determine how much should I change for a particular frequency.&lt;/p&gt;
+
+&lt;p&gt;The thesis is finished but there are still ideas to be improved on. I thought about recognizing audio parts where it&amp;rsquo;s hard to embed and skip those, minimizing the error rate.&lt;/p&gt;
+
+&lt;p&gt;The project can be found at &lt;a href=&#34;https://github.com/v36372/markstream&#34;&gt;Markstream&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;i-d-love-to-work-with&#34;&gt;I&amp;rsquo;d love to work with&lt;/h2&gt;
+
+&lt;p&gt;A working environment that does not focus on formal etiquette, where arriving on time isn&amp;rsquo;t a must for example. As long as I deliver good performance, I&amp;rsquo;d like to have autonomy on my working habit.&lt;/p&gt;
+
+&lt;p&gt;Outside of that, any tech start-up, company would do.&lt;/p&gt;
 </description>
     </item>
     
