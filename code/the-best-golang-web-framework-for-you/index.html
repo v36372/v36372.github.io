@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer">
+
+
+<base href="https://v36372.github.io">
+<title>
+
+
+     The best Golang web framework for you 
+
+</title>
+<link rel="canonical" href="https://v36372.github.io/code/the-best-golang-web-framework-for-you/">
+
+
+<script type="text/javascript">
+    var baseURL = 'https:\/\/v36372.github.io';
+    var host = baseURL.substring(0, baseURL.length - 1).replace(/\//g, '');
+    if ((host === window.location.host) && (window.location.protocol !== 'https:')) {
+        window.location.protocol = 'https:';
+    }
+</script>
+
+
+
+
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/styles/default.min.css">
+
+
+
+
+
+<link rel="stylesheet" href="https://v36372.github.io/css/reset.css">
+<link rel="stylesheet" href="https://v36372.github.io/css/pygments.css">
+<link rel="stylesheet" href="https://v36372.github.io/css/main.css">
+
+
+
+
+<link rel="shortcut icon"
+
+    href="https://v36372.github.io/img/favicon.ico"
+
+>
+
+
+
+
+
+
+</head>
+
+
+<body lang="en">
+
+<section class="header"> 
+    <div class="container">
+        <div class="content">
+            
+              <a href="https://v36372.github.io/"><img class="avatar" src="https://v36372.github.io/img/avatar.jpg" /></a>
+            
+            <a href="https://v36372.github.io/"><div class="name">Tin NG</div></a>
+            <nav>
+                <ul>
+                    <a href="https://v36372.github.io/blog/"><li>Blog</li></a>
+                    <a href="https://v36372.github.io/code/"><li>Code</li></a>
+                    <a href="https://v36372.github.io/about/"><li>About</li></a>
+                    <a href="https://v36372.github.io/jobs/"><li>Jobs</li></a>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</section>
+
+<section class="icons">
+    <div class="container">
+        <div class="content">
+
+        
+            <a href="//github.com/v36372" target="_blank">
+                <i class="icon ion-social-github"></i>
+            </a>
+        
+        
+        
+            <a href="//twitter.com/v36372" target="_blank">
+                <i class="icon ion-social-twitter"></i>
+            </a>
+        
+
+        
+            <a href="//linkedin.com/in/tin-nguyen-trong-01448197" target="_blank">
+                <i class="icon ion-social-linkedin"></i>
+            </a>
+        
+
+        
+
+        
+
+        
+            <a href="mailto:nttin@apcs.vn">
+                <i class="icon ion-ios-email larger"></i>
+            </a>
+        
+
+        
+            <a href="https://v36372.github.io/index.xml">
+                <i class="icon ion-social-rss larger"></i>
+            </a>
+        
+        </div>
+    </div>
+</section>
+
+
+<section class="main post non-narrow zero-top-spacing">
+    <div class="container">
+        <div class="content">
+            <div class="front-matter">
+                <div class="title-container">
+                    <div class="page-heading">
+
+    The best Golang web framework for you
+
+</div>
+
+                    <div class="initials"><a href="https://v36372.github.io"></a></div>
+                </div>
+                <div class="post-description">
+                    
+                </div>
+                <div class="meta">
+                    <div class="date" title="Wed Dec 28 2016 23:16:29 ICT">Dec 28, 2016</div>
+                    <div class="reading-time"><div class="middot"></div>1 minute read</div>
+                </div>
+            </div>
+            <div class="markdown">
+                
+
+<h1 id="don-t-use-framework">Don&rsquo;t use framework</h1>
+
+<p>The standard library has everything you need.</p>
+
+<p>The power of Go doesn&rsquo;t lie in concurrency like you may imagine. But instead in the design of <code>interfaces</code>.</p>
+
+<p>Say in Go, you have a function that accepts an interface as a parameter. And you have another <code>struct</code> that implement every method of that interface. Then this struct is acceptable for the function.</p>
+
+<p>To a larger scope, every struct that implement all the methods of that interface is eligible for the function.</p>
+
+<p>Now imagine this. You&rsquo;re developing a web application in Golang, and the router is getting slower (for example), and you want to replace the it by something faster than the standard library one.</p>
+
+<p>This would be problematic if you use a web framework cause everything would be glued in 1 piece. On the other hand, you can just find a router implementation on Github and plug it in seamlessly. Because the opensource router was implemented to conform to the standard library <code>router</code> interface, so that your program would accept it with no problem at all.</p>
+
+<p>You can read up more about interfaces at <a href="http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go">http://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go</a></p>
+
+                <br>
+                <p><a href="https://v36372.github.io/blog/">Back to posts</a></p>
+            </div>
+            <br>
+            <div class="disqus">
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+
+  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/highlight.min.js"></script>
+  
+
+  <script type="text/javascript">
+    hljs.initHighlightingOnLoad();
+  </script>
+
+
+
+</body>
+</html>
+
