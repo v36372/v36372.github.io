@@ -7,7 +7,7 @@ description = "Things about me."
 
 ## About
 
-Hi, I am Tin, a software engineer based in Saigon, Vietnam.
+Hi, I am Tin, a software engineer based in Saigon, Vietnam. And yes, the image above is me. I got an eye bruise in a football match in 09/2016.
 
 I love building software and products in general.
 

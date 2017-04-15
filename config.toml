@@ -1,4 +1,4 @@
-baseurl = "http://tintrongnguyen.me/" 
+baseurl = "https://v36372.github.io" 
 builddrafts = false
 theme = "cocoa"
 canonifyurls = true
@@ -7,29 +7,49 @@ languageCode = "en-US"
 layoutdir = "layouts"
 publishdir = "public"
 author = "Tin NG"
-title = "Random blogging"
+title = "random typing"
 pygmentsuseclasses = true
-disqusshortname = "engineerlearnstowrite" # Comment out to disable Disqus.
+#disqusshortname = "engineerlearnstowrite" # Comment out to disable Disqus.
 pluralizelisttitles = false
 
 [permalinks]
 fixed = ":title/"
 blog = "blog/:slug/"
+code = "code/:slug/"
+about = "about/"
+jobs = "jobs/"
+
+[[menu.main]]
+name                   = "About"
+weight                 = -120
+identifier             = "about"
+url                    = "/about/"
+
+[[menu.main]]
+name                   = "Code"
+weight                 = -120
+identifier             = "code"
+url                    = "/code/"
+
+[[menu.main]]
+name                   = "Jobs"
+weight                 = -120
+identifier             = "jobs"
+url                    = "/jobs/"
 
 [params]
 author = "Tin NG"
 # gravatar = "" # do not use in the same time as Avatar
-# avatar = "" # path to image in static dir e.g img/avatar.png (do not use in the same time as Gravatar)
+avatar = "img/avatar.jpg" # path to image in static dir e.g img/avatar.png (do not use in the same time as Gravatar)
 # cachebuster = false # FIXME: See issue #32.
 dateform = "Jan 2, 2006"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"
 email = "nttin@apcs.vn"
-#faviconfile = "img/favicon.ico"
+faviconfile = "img/favicon.ico"
 #gatracker = "XYZ"
 github = "//github.com/v36372"
 highlightjs = true
 # highlightjslanguages = ["go"] # additional languages not included in the "common" set
-initials = "ad" # Displayed on single post page; DEPRECATED in v0.3.0.
 lang = "en"
 linkedin = "//linkedin.com/in/tin-nguyen-trong-01448197"
 twitter = "//twitter.com/v36372"
