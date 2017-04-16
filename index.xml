@@ -103,7 +103,7 @@
 
 &lt;p&gt;&amp;ldquo;Who?&amp;rdquo;&lt;/p&gt;
 
-&lt;p&gt;&amp;ldquo;In that moment of desicion, I suddenly want her to talk about me&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;In that moment of desicion, I suddenly want to talk to her&amp;rdquo;&lt;/p&gt;
 
 &lt;p&gt;&amp;ldquo;Hehe, beers solve problems I guess&amp;rdquo;&lt;/p&gt;
 
@@ -187,7 +187,7 @@
 
 &lt;p&gt;Say in Go, you have a function that accepts an interface as a parameter. And you have another &lt;code&gt;struct&lt;/code&gt; that implement every method of that interface. Then this struct is acceptable for the function.&lt;/p&gt;
 
-&lt;p&gt;To a larger scope, every struct that implement all the methods of that interface is eligible for the function.&lt;/p&gt;
+&lt;p&gt;To a larger scope, every struct that implements all the methods of that interface is eligible for the function.&lt;/p&gt;
 
 &lt;p&gt;Now imagine this. You&amp;rsquo;re developing a web application in Golang, and the router is getting slower (for example), and you want to replace the it by something faster than the standard library one.&lt;/p&gt;
 
@@ -432,20 +432,11 @@ you can filter the good stuff and write it down.&lt;/p&gt;
 
 &lt;p&gt;I love building software and products in general.&lt;/p&gt;
 
-&lt;p&gt;When I&amp;rsquo;m bored, reading and writing are my options to escape reality. Like computers, right? I/O operations are the most common activities.&lt;/p&gt;
-
 &lt;p&gt;I&amp;rsquo;m currently work at &lt;a href=&#34;http://floatingcube.com&#34;&gt;Floating Cube Studios&lt;/a&gt;, also based in Saigon. We develop point of sale products and packages for small to middle size clients in Singapore.&lt;/p&gt;
 
-&lt;p&gt;I don&amp;rsquo;t call myself a writer, but I&amp;rsquo;m trying to fit in the writing habit.
-There&amp;rsquo;s something about crafting sentences that lures me into creating this blog and start putting my thoughts online.
-I personally think the choice of words is art.
-Strangely, I can&amp;rsquo;t write in my mother tongue, yet, the feeling of cringing keeps striking me.
-It&amp;rsquo;s something I definitely should work on, as this practice of literacy possibly be my main activity in the next 10 years.
-And writing in English is not a good approach for a non-native speaker, in a country that doesn&amp;rsquo;t speak the language.
-At the moment, I&amp;rsquo;m enjoying the freedom of burden and write whatever I want.
-But in the long run, screenwriting is what I&amp;rsquo;m aiming for.&lt;/p&gt;
+&lt;p&gt;Football is my favorite sport. I&amp;rsquo;ve been a player in this team &lt;a href=&#34;https://www.facebook.com/AlphaSaigonFC/&#34;&gt;AlphaSaigonFC&lt;/a&gt;. You can contact us and join the team if you like, we&amp;rsquo;ve been looking for Goalie.&lt;/p&gt;
 
-&lt;p&gt;If you are a writer of any kind and located in Saigon, drop me a buzz and I buy you a drink! ;)&lt;/p&gt;
+&lt;p&gt;I play Dota2 and CSGO on weekend with my friends.&lt;/p&gt;
 </description>
     </item>
     
@@ -461,7 +452,7 @@ But in the long run, screenwriting is what I&amp;rsquo;m aiming for.&lt;/p&gt;
 
 &lt;h2 id=&#34;basic-information&#34;&gt;Basic information&lt;/h2&gt;
 
-&lt;p&gt;Nguyen Trong Tin | 21/12/1994 | &lt;a href=&#34;mailto:nttin@apcs.vn&#34;&gt;nttin@apcs.vn&lt;/a&gt; | &lt;del&gt;Single hehe&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;Nguyen Trong Tin | 21/12/1994 | &lt;a href=&#34;mailto:nttin@apcs.vn&#34;&gt;nttin@apcs.vn&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;academic-history&#34;&gt;Academic history&lt;/h2&gt;
 
@@ -509,11 +500,31 @@ But in the long run, screenwriting is what I&amp;rsquo;m aiming for.&lt;/p&gt;
 
 &lt;p&gt;The project can be found at &lt;a href=&#34;https://github.com/v36372/markstream&#34;&gt;Markstream&lt;/a&gt;&lt;/p&gt;
 
+&lt;h2 id=&#34;i-have-expertise-in&#34;&gt;I have expertise in&lt;/h2&gt;
+
+&lt;h3 id=&#34;web-development-in-general&#34;&gt;Web development in general&lt;/h3&gt;
+
+&lt;p&gt;I&amp;rsquo;ve been doing web apps for 3 years, with projects ranging from Angular, Ionic to React and Python, Golang.&lt;/p&gt;
+
+&lt;p&gt;Recently I picked up the &lt;a href=&#34;https://12factor.net/&#34;&gt;12 factor application&lt;/a&gt; and &amp;rsquo;ve been trying to apply it to my projects. Especially in areas like testing and deploying.&lt;/p&gt;
+
+&lt;h3 id=&#34;golang-web-development&#34;&gt;Golang web development&lt;/h3&gt;
+
+&lt;p&gt;I&amp;rsquo;ve been contributing on my friend&amp;rsquo;s Golang project &lt;a href=&#34;https://github.com/sonhnguyen/dotastats&#34;&gt;Dotastats&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;python-web-development&#34;&gt;Python web development&lt;/h3&gt;
+
+&lt;p&gt;I&amp;rsquo;ve done Django and Django rest framework application.&lt;/p&gt;
+
+&lt;h3 id=&#34;react-development&#34;&gt;React development&lt;/h3&gt;
+
+&lt;p&gt;My side project &lt;a href=&#34;https://f10k.herokuapp.com&#34;&gt;Sunseeker&lt;/a&gt; is made in React.&lt;/p&gt;
+
 &lt;h2 id=&#34;i-d-love-to-work-with&#34;&gt;I&amp;rsquo;d love to work with&lt;/h2&gt;
 
 &lt;p&gt;A working environment that does not focus on formal etiquette, where arriving on time isn&amp;rsquo;t a must for example. As long as I deliver good performance, I&amp;rsquo;d like to have autonomy on my working habit.&lt;/p&gt;
 
-&lt;p&gt;Outside of that, any tech start-up, company would do.&lt;/p&gt;
+&lt;p&gt;Outside of that, any tech start-up and company would do.&lt;/p&gt;
 </description>
     </item>
     
